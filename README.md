@@ -1,7 +1,3 @@
-Here’s a more personalized version of the `README.md`:
-
----
-
 # 🧠 Unlocking Data Structures & Algorithms 🔍
 
 Welcome to my comprehensive repository focused on Data Structures and Algorithms. This is where I compile all the essential code files, resources, and materials I've gathered and developed. Whether you’re gearing up for interviews, seeking to enhance your understanding, or diving into competitive programming, this repo should be a valuable companion on your journey.
@@ -43,4 +39,4 @@ Keep coding and exploring! 🚀
 
 ---
 
-This version should better reflect your own voice and style, making it feel more personal and unique.
+
